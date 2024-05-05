@@ -1,61 +1,29 @@
-# Image gallery
+# GroceryList App
 
-> A simple
-
-## Table of contents
-
-- [General info](#general-info)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Features](#features)
-- [Status](#status)
-- [Inspiration](#inspiration)
-- [Contact](#contact)
-
-## General info
-
-> The objective of the project is to practice separation of concern in
-> JavaScript.
-
-## Screenshots
-
-![Example screenshot]()
-
-## Technologies
-
-- JavaScript
-- HTML5
-- CSS3
-- VSC code
-
-## Setup
-
-clone the repo and start using the stop watch.
-
-## Code Examples
-
-```js
-
-```
+The GroceryList App is a digital solution designed to simplify and enhance the
+grocery shopping experience for users. It provides a convenient platform for
+creating, managing, and organizing shopping lists, helping users streamline
+their shopping process and stay organized with their grocery needs.
 
 ## Features
 
-List of features ready and Todos for future development
+- **Create Lists:** Easily create new shopping lists for different occasions.
+- **Add Items:** Quickly add items to your lists with a simple interface.
+- **Edit and Delete:** Edit or delete items as needed to keep your lists up to
+  date.
 
--
--
--
+## Technologies Used
 
-To-do list:
+- HTML/CSS/JavaScript.
 
--
--
+## Installation
 
-## Status
+1. Clone the repository:
 
-Project is: _in progress_
+2. Navigate to the project directory:
 
-## Inspiration
+3. Open the `index.html` file in your web browser.
 
 ## Contact
+
+[Rodica](https://github.com/rodicailciuc)
