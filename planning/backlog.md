@@ -2,12 +2,12 @@
 
 ## Must-Haves
 
-> these are necessary for basic usability
+- [ ] Display the items list.
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+- [ ] Edit or remove text.
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+- [ ] Clear all items.
